@@ -15,7 +15,7 @@
 1. Установите Android Studio с [официального сайта](https://developer.android.com/studio).
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Chelovek6/Axel.git
+   git clone https://github.com/vladimir1827/Vladimir.git
 3. Откройте проект в Android Studio: File > Open и выберите папку проекта.
 4. Подключите устройство или используйте эмулятор.
 5. Нажмите Run (зелёная кнопка Play).
